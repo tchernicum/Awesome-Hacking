@@ -6,14 +6,13 @@
 
 Your [contributions](contributing.md) are always welcome !
 
-### Awesome Repositories
+## Awesome Repositories
 
 Repository | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| Penetration Testing / Security Cheatsheets
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
@@ -47,7 +46,7 @@ Repository | Description
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 
-### Other useful repositories
+## Other useful repositories
 
 Repository | Description
 ---- | ----
@@ -63,6 +62,7 @@ Repository | Description
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
 [Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
+[Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne
 [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
 [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
 [IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
@@ -84,12 +84,12 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 
-### Need more ?
+## Need more ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
-### Contributions
+## Contributions
 
 Please have a look at [contributing.md](contributing.md)
